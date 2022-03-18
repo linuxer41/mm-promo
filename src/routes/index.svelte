@@ -79,8 +79,8 @@
 		background: #fff;
 		padding: 0.1rem;
 		/* border-radius: 5px; */
-        width: 170px;
-        height: 180px;
+        width: 188px;
+        height: 188px;
 		border: 1px solid #000;
         display: inline-block;
 		/* display: grid;
